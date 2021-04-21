@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gSpxikRXtAP/T19LhPVqPru5yzKnK65f+ZDZIOjx4fDMjGAHTpW0GODgZQ215Escr3mqBfge9cDyQVR0W/sy9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adam Gallegos\\Desktop\\Year 2\\AppDevelopment\\CSC160\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adam Gallegos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
